@@ -1,0 +1,26 @@
+body{
+    background: pink;
+    text-align: center;
+    font-family: KacstLetter;
+
+
+
+}
+h1{
+    color: deepskyblue;
+    font-family: Chilanka;
+}
+table,th,td{
+    border: crimson 2px solid;
+    border-collapse: collapse;
+    padding: 40px;
+}
+th {
+    color: cornsilk;
+    font-family: "Abyssinica SIL"
+;
+}
+.one{
+border-radius: 35px;
+
+}

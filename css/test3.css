@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+}
+#seven{
+    font-family: cursive;
+    background-color:plum;
+    color:greenyellow;
+    font-size: 30px;
+}
+.tiri{
+    width: 50%;
+    height: 300px;
+    border-radius: 75px;
+}
+#nine{
+    font-family: Pagul; font-weight: bold;
+    color: indigo;
+}

@@ -1,0 +1,42 @@
+body {
+    background-color: pink;
+    text-align: left;
+    /*margin: 40px;*/
+    /*padding: 40px;*/
+}
+p{
+    color: deepskyblue;
+}
+.stv{
+    color: darkblue;
+    font-size: 20px;
+    font-family: Ani;
+    font-weight: bold;
+}
+.dtv{
+    border: red 2px dotted;
+    border-radius: 30px 0 30px 0px;
+    padding: 30px;
+}
+.three{
+    border-radius: 35px;
+    width: 50%;
+    height: 300px;
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+a:hover{
+    color:#050001;
+
+    font-size: 20px;
+    border-bottom: darkgreen 2px solid;
+}
+#stv{
+    font-family: Chandas; color: darkslateblue;
+}
+#stv:hover{
+    font-family: cursive;
+    font-size: 20px;
+}

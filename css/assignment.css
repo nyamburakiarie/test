@@ -1,0 +1,47 @@
+body {
+    background-color: black;
+}
+.dtv{
+    color: white;
+}
+iframe{
+    width: 100%;
+    border-radius: 30px;
+    -webkit-filter: grayscale();
+}
+.tiri{
+    color: white;
+    background-color: #2D2D2D;
+    border-radius: 15px;
+
+    }
+.stv{
+float: left;
+    width: 50%;
+}
+.one{
+
+    border: 1px gray solid;
+    border-radius: 35px;
+
+    padding: 30px;
+}
+#seven{
+    background-color: black;
+    color: white;
+    border-radius: 30px;
+}
+#seven:hover{
+    background-color:white;
+    color: black;
+}
+.container{
+    display: flex;
+    column-gap: 30px;
+}
+input{
+    height: 30px;
+    border-radius: 10px;
+}
+
+
