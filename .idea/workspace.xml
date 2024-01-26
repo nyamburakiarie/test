@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3b12ad35-1609-473f-930c-3e19d6392063" name="Changes" comment="" />
+    <list default="true" id="3b12ad35-1609-473f-930c-3e19d6392063" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/css/lists.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment.html" beforeDir="false" afterPath="$PROJECT_DIR$/assignment.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/assignment.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/assignment.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iframes2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lists.html" beforeDir="false" afterPath="$PROJECT_DIR$/lists.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/online.html" beforeDir="false" afterPath="$PROJECT_DIR$/online.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/table2.html" beforeDir="false" afterPath="$PROJECT_DIR$/table2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tables.html" beforeDir="false" afterPath="$PROJECT_DIR$/tables.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +27,9 @@
         <option value="HTML File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
@@ -34,6 +47,7 @@
     "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
     "last_opened_file_path": "/home/emobilis/Documents/sly/web development/class",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
@@ -124,6 +138,18 @@
       <workItem from="1705668047838" duration="43000" />
       <workItem from="1705668416093" duration="42000" />
       <workItem from="1705910589602" duration="875000" />
+      <workItem from="1705920681364" duration="23000" />
+      <workItem from="1705997811768" duration="1871000" />
+      <workItem from="1706004728701" duration="894000" />
+      <workItem from="1706015006894" duration="25000" />
+      <workItem from="1706084684286" duration="1866000" />
+      <workItem from="1706087358393" duration="235000" />
+      <workItem from="1706169860860" duration="1044000" />
+      <workItem from="1706172772205" duration="1004000" />
+      <workItem from="1706174173289" duration="684000" />
+      <workItem from="1706175145933" duration="4223000" />
+      <workItem from="1706181501117" duration="141000" />
+      <workItem from="1706256182982" duration="5521000" />
     </task>
     <servers />
   </component>
